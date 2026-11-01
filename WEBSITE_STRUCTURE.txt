@@ -1,0 +1,96 @@
+BALENZQ SOLUTIONS — WEBSITE STRUCTURE
+Domain: balenzq.in
+Brand: BALENZQ SOLUTIONS
+Language: English throughout
+
+DESIGN SYSTEM
+- Premium, minimalist, Apple-inspired presentation (original BALENZQ identity; not a copy).
+- Palette: white and near-black, with the logo's turquoise accent used sparingly.
+- Spacious layout, strong typography, subtle background texture, restrained motion.
+- Lightweight pages; no heavy video backgrounds, large decorative graphics or unnecessary effects.
+- Homepage: no enclosing page border and no visible card outlines.
+- Responsive navigation and layouts for desktop, tablet and mobile.
+
+GLOBAL NAVIGATION
+Home | About | Services | Expertise | Contact
+Primary CTA: Start a Project
+
+HOME PAGE
+1. Hero
+   Eyebrow: BALENZQ SOLUTIONS · CREATIVE SOLUTIONS
+   Headline: Ideas deserve a better build.
+   Supporting copy: We bring web, cloud, applications and creative production together to help people and businesses move forward.
+   CTAs: Explore Our Services / Talk to Our Team
+2. Service Overview
+   - Web Development
+   - Cloud Services
+   - Domains & Hosting
+   - Mobile App Development
+   - SEO & Website Optimisation
+   - Multimedia Design
+   - Media Post-Production
+   - AI Video Production
+3. About Preview
+   Headline: One team. Multiple capabilities.
+   Short introduction to the company's multidisciplinary delivery model.
+4. Expertise Preview
+   Creative designers, video editors, website designers, app developers, cloud engineers, system architects and domain/hosting partners.
+5. Audience Section
+   Students and individuals; entrepreneurs and startups; growing businesses; established organisations.
+6. Portfolio / Selected Work
+   Add only verified projects and approved client work. Use placeholders until actual work is supplied.
+7. Contact CTA
+   Headline: Have a project in mind? Let's make it happen.
+8. Footer
+   Brand, page links, service links, verified contact details and social links.
+
+ABOUT PAGE
+- Company introduction
+- How the team and specialist partner network works
+- Mission and vision (final wording to be approved)
+- Who we work with
+
+SERVICES PAGE
+- Services overview with links to detailed sections/pages.
+- Web Development: website design, development and static web applications.
+- Cloud Services: cloud engineering, infrastructure and system architecture.
+- Domains & Hosting: domain registration via reseller partners; hosting via hosting partners.
+- Mobile App Development: iOS and Android application development.
+- SEO: SEO and website optimisation.
+- Multimedia Design: graphic and multimedia design.
+- Media Post-Production: video editing and post-production.
+- AI Video Production: AI-assisted video content.
+
+EXPERTISE PAGE
+- Multimedia designers
+- Video editing specialists
+- Website designers and developers
+- iOS and Android app developers
+- Cloud engineers
+- System architects
+- Domain reseller and hosting partners
+- Independent specialist network
+
+PORTFOLIO PAGE (recommended)
+- Selected websites
+- Mobile applications
+- Creative and multimedia work
+- Video and post-production
+Only publish work with permission and accurate project details.
+
+CONTACT PAGE
+- Enquiry form: name, email, service, project details.
+- Business email, phone/WhatsApp, location and social links (to be supplied).
+- Privacy notice and consent language before launch.
+
+PRE-LAUNCH ITEMS TO CONFIRM
+1. Official domain spelling and ownership: balenzq.in (as provided).
+2. Official contact email and phone/WhatsApp.
+3. Business address or service area.
+4. Actual portfolio projects and permission to display them.
+5. Approved company introduction, mission and vision.
+6. Privacy policy, terms and enquiry-form handling.
+7. Confirm whether pricing is displayed or enquiries are quote-based.
+
+NOTE
+The current contact form is a front-end email handoff only; it is not a server-backed form. Configure a secure form endpoint before launch.
