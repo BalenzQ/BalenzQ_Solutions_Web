@@ -9,3 +9,4 @@ Preview:
 1. Extract this ZIP.
 2. Open the balenzq-group-website folder.
 3. Open index.html in a browser.
+4. new addon
