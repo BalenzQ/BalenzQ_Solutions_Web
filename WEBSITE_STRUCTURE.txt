@@ -93,4 +93,4 @@ PRE-LAUNCH ITEMS TO CONFIRM
 7. Confirm whether pricing is displayed or enquiries are quote-based.
 
 NOTE
-The current contact form is a front-end email handoff only; it is not a server-backed form. Configure a secure form endpoint before launch.
+The contact form posts to a Google Apps Script web app that stores each enquiry in a Google Sheet and notifies Slack (see README.txt).
